@@ -1,4 +1,4 @@
 # WebDevelopment1
-Author:Surabhi Waghmare
+Author:Surabhi (NIT TROCHY)
 <br>
 This is my first web development repo
